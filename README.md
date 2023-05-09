@@ -1,5 +1,5 @@
 # Raumhundschuh-Berta
 notwendige Software:
-sonic pi \n
+sonic pi \n*
 python: python-OSC; pyserial
 makecode
